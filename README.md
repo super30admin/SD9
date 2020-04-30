@@ -1,7 +1,7 @@
 # SD9
 
 
-**Design a service that can store and search user tweets
+**Design a service that can store and search user tweets**
 
 **What to be designed?**
 
